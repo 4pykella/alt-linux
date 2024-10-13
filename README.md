@@ -40,5 +40,9 @@ epm -i gnome-extensions-app
 - [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/) постоянно отображает панель программ.
 - [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/) Связь телефона и пк.
 - [Legacy (GTK3)](https://extensions.gnome.org/extension/4998/legacy-gtk3-theme-scheme-auto-switcher/) Фикс.
+# Кастомный GRUB
+Приложен кастомный граб. Есть пара нюанов настройки, но устанавливается через grub customize и файл питона. 
+инструкцию к данному grub [dedsec-grub2-theme](https://github.com/VandalByte/dedsec-grub2-theme?tab=readme-ov-file)
+
 # Заключение
 Вы успешно завершили настройку вашей системы на базе ALT Linux. Теперь у вас есть все необходимые инструменты для продуктивной работы. В случае возникновения вопросов или необходимости в дополнительных настройках и расширенных возможностях, вы можете обратиться к [официальной документации ALT Linux](https://alt-gnome.wiki/).
